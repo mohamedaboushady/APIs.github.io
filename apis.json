@@ -1,0 +1,17 @@
+{
+  "data":
+[
+    {"id" : 12 , //ahmed's id
+    "inputs" : [
+      {"inputName" : "nationality" // input name , "valueID" : 12 // input id },
+      {"inputName" : "gender" , "valueID" : 1 }
+ 	]
+ 	},
+  {"id" : 123 ,//mohamed's id
+    "inputs" : [
+      {"inputName" : "nationality" , "valueID" : 13 },
+      {"inputName" : "gender" , "valueID" : 2 }
+ 	]
+ 	}
+]
+}
